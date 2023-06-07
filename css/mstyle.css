@@ -12,7 +12,7 @@
             body{
                 overflow:auto;
                 margin: 0;
-                background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.2)),url("3.jpg");
+                background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.2)),url("../assets/3.jpg");
                 background-size: cover;
             }
             header{
